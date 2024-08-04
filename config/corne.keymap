@@ -10,11 +10,8 @@
 
 &mt { tapping-term-ms = <180>; };
 
-&lt { tapping-term-ms = <190>; };
+&lt { tapping-term-ms = <195>; };
 
-&mt { tapping-term-ms = <180>; };
-
-&lt { tapping-term-ms = <190>; };
 
 / {
     combos {
